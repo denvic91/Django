@@ -1,0 +1,10 @@
+{%  extends 'users/base.html' %}
+{% block content %}
+    <div class="row">
+
+            <h3>Поздравляем! </h3>
+            <div>Пользователь {{ user.email }} успешно активирован!</div>
+
+        <a href="{% url 'users:login' %}" class="btn btn-primary">На главную страницу!</a>
+    </div>
+{% endblock %}

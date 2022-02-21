@@ -1,0 +1,11 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Subject: Verify your account
+From: django@gb.local
+To: berserk_ka4mar@mail.rukkkk
+Date: Fri, 18 Feb 2022 15:31:53 -0000
+Message-ID: <164519831330.8776.15472120542154952649@xn--admin--8pf3b>
+
+http://127.0.0.1:8000//users/verify/berserk_ka4mar@mail.rukkkk/5548f634b51f9fde238adb484c532e8d1eb8db81/
+-------------------------------------------------------------------------------
